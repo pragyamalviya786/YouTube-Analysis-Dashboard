@@ -1,48 +1,31 @@
 # 📊 YouTube Analysis Dashboard
 
-    ![Dashboard](YT_dashboard.png)
-
-## 🔹 Project Overview
-
+## 📌 Project Overview
 This project is an interactive Power BI dashboard used to analyze YouTube video performance, audience engagement, and channel growth.
 
-## 🔹 Objectives
+## 🛠 Tools Used
+- Microsoft Power BI
+- Power Query
+- DAX
 
-* Analyze views, likes, and comments
-* Identify top-performing videos
-* Track channel growth over time
-* Understand audience engagement
+## 📈 Key Insights
+- Some videos perform better than others  
+- Engagement (likes, comments) varies across videos  
+- Channel growth changes over time  
+- Certain content types attract more audience  
 
-## 🔹 Tools Used
+## 🎯 Business Recommendations
+- Focus on high-performing content types  
+- Improve engagement through better titles and thumbnails  
+- Post consistently to maintain growth  
+- Analyze audience behavior for better targeting  
 
-* Microsoft Power BI
-* Power Query
-* DAX
+## 📷 Dashboard Preview
+![Dashboard](YT_dashboard.png)
 
-## 🔹 Key Features
-
-* Interactive dashboard
-* Engagement analysis (views, likes, comments)
-* Top videos identification
-* Growth trend analysis
-
-## 🔹 Insights
-
-* Some videos perform better than others
-* Engagement changes over time
-* Trends help identify popular content
-
-## 🔹 Project Files
-
-* YouTube_Analysis.pbix
-* youtube-dashboard.png
-
-## 🔹 How to Use
-
-* Download the .pbix file
-* Open in Power BI Desktop
-* Explore the dashboard
+## 👩‍💻 Author
+**Pragya Malviya**  
+Aspiring Data Analyst  
 
 ---
-
-✨ This project showcases Power BI dashboarding and data analysis skills.
+✨ This project demonstrates Power BI dashboarding, data visualization, and insight generation skills.
