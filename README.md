@@ -1,6 +1,6 @@
 # 📊 YouTube Analysis Dashboard
 
-    ![Dashboard](youtube-dashboard.png)
+    ![Dashboard](YT_dashboard.png)
 
 ## 🔹 Project Overview
 
